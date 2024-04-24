@@ -1,0 +1,20 @@
+# Pycharm files
+.idea/
+.venv/
+venv/
+**/__pycache__/
+src/storages/requests.py
+# CI/CD, docker
+.gitlab-ci.yml
+docker-compose.yaml
+Dockerfile
+.dockerignore
+# gRPC
+protos/
+# Data Base
+db/
+# Testing files
+tests/
+unit_tests/
+.pytest_cache
+pytest.ini
